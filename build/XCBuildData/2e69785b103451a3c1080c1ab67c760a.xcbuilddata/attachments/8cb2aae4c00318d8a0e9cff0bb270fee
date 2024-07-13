@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/20.6 core data-master.dia",
+    "emit-module-dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/20.6 core data-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/20.6 core data-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/20.6 core data-master.swiftdeps"
+  },
+  "/Users/tab/Documents/SWIFT/20.6 core data/20.6 core data/_0_6_core_dataApp.swift" : {
+    "const-values" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/_0_6_core_dataApp.swiftconstvalues",
+    "dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/_0_6_core_dataApp.d",
+    "diagnostics" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/_0_6_core_dataApp.dia",
+    "index-unit-output-path" : "/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/_0_6_core_dataApp.o",
+    "llvm-bc" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/_0_6_core_dataApp.bc",
+    "object" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/_0_6_core_dataApp.o",
+    "swift-dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/_0_6_core_dataApp.swiftdeps",
+    "swiftmodule" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/_0_6_core_dataApp~partial.swiftmodule"
+  },
+  "/Users/tab/Documents/SWIFT/20.6 core data/20.6 core data/ContentView.swift" : {
+    "const-values" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/tab/Documents/SWIFT/20.6 core data/20.6 core data/core data/File.swift" : {
+    "const-values" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/File.swiftconstvalues",
+    "dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/File.d",
+    "diagnostics" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/File.dia",
+    "index-unit-output-path" : "/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/File.o",
+    "llvm-bc" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/File.bc",
+    "object" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/File.o",
+    "swift-dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/File.swiftdeps",
+    "swiftmodule" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/File~partial.swiftmodule"
+  },
+  "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/DerivedSources/CoreDataGenerated/Model/Model+CoreDataModel.swift" : {
+    "const-values" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Model+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Model+CoreDataModel.d",
+    "diagnostics" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Model+CoreDataModel.dia",
+    "index-unit-output-path" : "/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Model+CoreDataModel.o",
+    "llvm-bc" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Model+CoreDataModel.bc",
+    "object" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Model+CoreDataModel.o",
+    "swift-dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Model+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Model+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/DerivedSources/CoreDataGenerated/Model/Worker+CoreDataProperties.swift" : {
+    "const-values" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.d",
+    "diagnostics" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.dia",
+    "index-unit-output-path" : "/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.o",
+    "llvm-bc" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.bc",
+    "object" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/tab/Documents/SWIFT/20.6 core data/Worker+CoreDataClass.swift" : {
+    "const-values" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataClass.d",
+    "diagnostics" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataClass.dia",
+    "index-unit-output-path" : "/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataClass.o",
+    "llvm-bc" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataClass.bc",
+    "object" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataClass.o",
+    "swift-dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/tab/Documents/SWIFT/20.6 core data/Worker+CoreDataProperties.swift" : {
+    "const-values" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.d",
+    "diagnostics" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.dia",
+    "index-unit-output-path" : "/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.o",
+    "llvm-bc" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.bc",
+    "object" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/tab/Documents/SWIFT/20.6 core data/build/20.6 core data.build/Debug-iphonesimulator/20.6 core data.build/Objects-normal/arm64/Worker+CoreDataProperties~partial.swiftmodule"
+  }
+}
