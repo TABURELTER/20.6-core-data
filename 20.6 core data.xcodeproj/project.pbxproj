@@ -17,10 +17,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		177D98612C551B610088C11F /* 20.6 core data.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "20.6 core data.app"; path = "/Users/tab/Documents/SWIFT/20.6 core data/build/Debug-iphoneos/20.6 core data.app"; sourceTree = "<absolute>"; };
 		1780E7822C4A0FB9004A6DA6 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 		1780E7AD2C4A13AF004A6DA6 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = File.swift; path = "20.6 core data/core data/File.swift"; sourceTree = SOURCE_ROOT; };
 		179A948A2C4A279D0077E7CD /* add:edit worker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "add:edit worker.swift"; sourceTree = SOURCE_ROOT; };
-		17CAAA382C433234003C3770 /* 20.6 core data.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "20.6 core data.app"; path = "/Users/tab/Documents/SWIFT/20.6 core data/build/Debug-iphoneos/20.6 core data.app"; sourceTree = "<absolute>"; };
 		17CAAA3B2C433234003C3770 /* _0_6_core_dataApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _0_6_core_dataApp.swift; sourceTree = "<group>"; };
 		17CAAA3D2C433234003C3770 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -86,7 +86,7 @@
 				17E53BC52C4FBB8100C21120 /* Fakery */,
 			);
 			productName = "20.6 core data";
-			productReference = 17CAAA382C433234003C3770 /* 20.6 core data.app */;
+			productReference = 177D98612C551B610088C11F /* 20.6 core data.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */

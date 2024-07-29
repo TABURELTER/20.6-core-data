@@ -9,15 +9,16 @@ import SwiftUI
 @main
 struct _0_6_core_dataApp: App {
     let pController = PersistenceController.shared
+//    let pController = PersistenceController.preview
     
     var body: some Scene {
         @Environment(\.scenePhase) var scenePhase
         
         WindowGroup {
             ContentView().environment(\.managedObjectContext, pController.container.viewContext)
-                .onChange(of: scenePhase) {
-                    pController.save()
-                }
+//                .onChange(of: scenePhase) {
+//                    pController.save()
+//                }
         }
     }
     
