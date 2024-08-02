@@ -44,7 +44,7 @@ struct PersistenceController {
     
     func saveData() {
         print("ВЫЗВАЛИ СОХРАНЕНИЕ")
-//    func save(context:NSManagedObjectContext) {
+
         let context = container.viewContext
         
         if context.hasChanges {
